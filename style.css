@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#main {
+    background-color: #e1b382;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px;
+    font-weight: 800;
+    color: #12343b;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#name{
+    display: flex;
+    color: #12343b;
+    justify-content: space-around;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+#myphoto{
+    display: flex;
+    justify-content: space-around;
+}
+#intro{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+   font-family: serif;
+    font-weight: 800;
+    color: #12343b;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#space{
+    height: 50px;
+}
+#space1{
+    height: 50px;
+}
+#hackathon{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    color: #12343b;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#certificate{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#smartind{
+    font-family: serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #12343b;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#linkedin{
+    font-family: serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#twitter{
+    font-family: serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#github{
+    font-family: serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#footer{
+    
+        font-family: serif;
+        font-size: 20px;
+        font-weight: 800;
+        color: black;
+        display: flex;
+        background-color: #e1b382;
+        
+    
+}
